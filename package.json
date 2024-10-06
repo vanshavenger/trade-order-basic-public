@@ -1,0 +1,17 @@
+{
+  "name": "order-book",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/supertest": "^6.0.2",
+    "express": "^4.21.0",
+    "supertest": "^7.0.0"
+  }
+}
